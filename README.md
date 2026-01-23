@@ -1,33 +1,21 @@
-# Hi 👋, I'm CherubinSysNet
+# 💫 About Me:
+Je suis passionné par l’informatique, particulièrement par l’administration des systèmes et réseaux ainsi que par la programmation. J’aime automatiser les tâches répétitives et relever des défis techniques complexes.<br><br>Au cours de mes projets académiques et personnels, j’ai acquis de l’expérience avec **Windows Server** et **Linux**, et je travaille régulièrement avec des outils tels que **Python, Ansible, Packet Tracer et GNS3**.<br><br>En dehors de l’informatique, je suis un grand fan de football et je me tiens constamment informé des dernières technologies pour rester à jour.<br>
 
-### A passionate developer from around the world
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=CherubinSysNet&label=Profile views&color=0e75b6&style=flat](https://prolificyou.com.au/automating-administrative-tasks-boosting-efficiency-with-ai/)" alt="CherubinSysNet" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ch%C3%A9rubin-tshienda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tshienda.cherubin23@gmail.com) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CherubinSysNet" alt="CherubinSysNet" /></a> </p>
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CherubinSysNet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CherubinSysNet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CherubinSysNet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **Administration Systèmes, Administration Réseaux et Automation**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CherubinSysNet&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **tshienda.cherubin23@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=CherubinSysNet&icon=10&color=1)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **si je fais deux fois la même tâche, je cherche comment l’automatiser.**
-
-- 👨‍💻 All of my projects are available at **[https://cherubin.vercel.app](https://cherubin.vercel.app)**
-
-- 📝 I regularly write articles on **[https://cherubin.vercel.app](https://cherubin.vercel.app)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/CherubinSysNet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CherubinSysNet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chérubin-tshienda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chérubin-tshienda" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherubinSysNet&show_icons=true&locale=en&layout=compact" alt="CherubinSysNet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CherubinSysNet&show_icons=true&locale=en" alt="CherubinSysNet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CherubinSysNet&" alt="CherubinSysNet" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
