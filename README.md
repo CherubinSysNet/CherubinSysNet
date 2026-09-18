@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Bannière Principale Haute Définition -->
-    <img src="./banner.svg" width="100%" alt="Chérubin Tshienda Banner" />
+  <img src="./banner.svg" width="100%" alt="Chérubin Tshienda Banner" />
 
   <!-- Animation texte dactylographique -->
   <a href="https://cherubin.vercel.app">
