@@ -1,13 +1,37 @@
-# 💫 About Me:
-Je suis passionné par l’informatique, particulièrement par l’administration des systèmes et réseaux ainsi que par la programmation. J’aime automatiser les tâches répétitives et relever des défis techniques complexes.<br><br>Au cours de mes projets académiques et personnels, j’ai acquis de l’expérience avec **Windows Server** et **Linux**, et je travaille régulièrement avec des outils tels que **Python, Ansible, Packet Tracer et GNS3**.<br><br>En dehors de l’informatique, je suis un grand fan de football et je me tiens constamment informé des dernières technologies pour rester à jour.<br>
+<!-- ============================================= -->
+<!--          CHÉRUBIN TSHIENDA — PROFILE           -->
+<!-- ============================================= -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ch%C3%A9rubin-tshienda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tshienda.cherubin23@gmail.com) 
+<!-- Bannière animée avec typographie -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D10,50:A6A9AD,100:C8FF3D&height=200&section=header&text=Ch%C3%A9rubin%20Tshienda&fontSize=45&fontColor=F7F7F5&animation=fadeIn&fontAlignY=38&desc=SysAdmin%20%7C%20Network%20%7C%20Automation&descAlignY=58&descSize=18&descColor=C8FF3D" width="100%"/>
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-# 📊 GitHub Stats:
+<!-- Badge de statut -->
+<a href="https://cherubin.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-En_ligne-C8FF3D?style=for-the-badge&labelColor=0B0D10" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=CherubinSysNet&label=Visiteurs&color=C8FF3D&style=for-the-badge&labelColor=0B0D10" />
+
+<br/><br/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=C8FF3D&center=true&vCenter=true&width=650&lines=Administrateur+Syst%C3%A8mes+%26+R%C3%A9seaux;Automatisation+avec+Ansible+%26+Python;Toujours+en+qu%C3%AAte+de+nouveaux+d%C3%A9fis+techniques" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> À propos de moi
+
+```yaml
+👤 Nom        : Chérubin Tshienda
+🎯 Rôle       : Administrateur Systèmes & Réseaux
+📍 Localisation: [Ton Pays / Ville]
+💡 Passion    : Automatisation · Infrastructure · Cybersécurité
+⚽ Fun fact   : Grand fan de football & veille tech permanente# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CherubinSysNet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CherubinSysNet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CherubinSysNet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
