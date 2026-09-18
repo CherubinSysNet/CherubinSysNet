@@ -1,7 +1,7 @@
-<div align="center">
+      <div align="center">
 
-  <!-- Bannière Principale Haute Définition -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0B0D10&height=220&section=header&text=CH%C3%89RUBIN%20TSHIENDA&fontSize=42&fontColor=C8FF3D&desc=SYSTEMS%20%26%20NETWORK%20ADMINISTRATOR%20%7C%20AUTOMATION%20ENGINEER&descSize=16&descColor=F7F7F5&stroke=C8FF3D&strokeWidth=2" width="100%" alt="Cherubin Tshienda Banner" />
+  <!-- Bannière en Ligne Garantie Compatible GitHub Camo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=220&section=header&text=CH%C3%89RUBIN%20TSHIENDA&fontSize=42&fontColor=C8FF3D&desc=SYSTEMS%20%26%20NETWORK%20ADMINISTRATOR%20%7C%20AUTOMATION&descSize=16&descColor=F7F7F5&stroke=C8FF3D&strokeWidth=2" width="100%" alt="Chérubin Tshienda Header" />
 
   <!-- Animation Dactylographique -->
   <a href="https://cherubin.vercel.app">
@@ -36,7 +36,7 @@ Spécialisé dans **l'administration des systèmes, l'ingénierie des réseaux e
 * <img src="https://api.iconify.design/lucide:server.svg?color=%23C8FF3D" width="16" height="16" align="center" /> **Systèmes & Exploitation** : Déploiement, durcissement et administration avancée d'environnements hétérogènes (Linux Debian/Ubuntu/RHEL et Windows Server / Active Directory).
 * <img src="https://api.iconify.design/lucide:network.svg?color=%23C8FF3D" width="16" height="16" align="center" /> **Architecture Réseau** : Modélisation et configuration d'infrastructures d'interconnexion (Cisco Packet Tracer, GNS3, VLANs, routage OSPF/BGP, services DNS/DHCP).
 * <img src="https://api.iconify.design/lucide:terminal.svg?color=%23C8FF3D" width="16" height="16" align="center" /> **Automatisation & DevOps** : Industrialisation des configurations via Ansible et conception de scripts d'automatisation et de surveillance en Python, Bash et PowerShell.
-* <img src="https://api.iconify.design/lucide:activity.svg?color=%23C8FF3D" width="16" height="16" align="center" /> **Méthode & Veille** : Passionné par l'esprit d'équipe, l'analyse stratégique (amateur de football) et la veille permanente sur les technologies Cloud et la sécurité opérationnelle.
+* <img src="https://api.iconify.design/lucide:activity.svg?color=%23C8FF3D" width="16" height="16" align="center" /> **Méthode & Veille** : Passionné par l'esprit d'équipe, l'analyse stratégique (football) et la veille permanente sur les technologies Cloud et la sécurité opérationnelle.
 
 ---
 
@@ -125,7 +125,7 @@ Spécialisé dans **l'administration des systèmes, l'ingénierie des réseaux e
 
 <div align="center">
 
-  <!-- Bannière Inférieure -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0B0D10&height=100&section=footer&stroke=C8FF3D&strokeWidth=1" width="100%" alt="Footer Banner" />
+  <!-- Pied de page ondulé discret -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
