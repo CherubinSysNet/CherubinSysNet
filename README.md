@@ -108,17 +108,6 @@ Sur ce GitHub, je partage mes **projets, expérimentations et outils** autour de
 
 ---
 
-### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23C8FF3D" width="22" height="22" align="center" /> Projets en Vedette
-
-| Projet | Description | Technologies |
-| :--- | :--- | :--- |
-| <img src="https://api.iconify.design/lucide:git-commit.svg?color=%23C8FF3D" width="14" height="14" align="center" /> **[Ubuntu-Admin-Chatbot](https://github.com/CherubinSysNet)** | Assistant pour exécuter des tâches d'administration et de maintenance à distance sur plusieurs serveurs Ubuntu. | `Python` `Ubuntu` `Linux` |
-| <img src="https://api.iconify.design/lucide:git-commit.svg?color=%23C8FF3D" width="14" height="14" align="center" /> **[Windows-Server-Ansible](https://github.com/CherubinSysNet)** | Automatisation complète du déploiement et de la configuration de machines Windows Server. | `Ansible` `Windows Server` `YAML` |
-| <img src="https://api.iconify.design/lucide:git-commit.svg?color=%23C8FF3D" width="14" height="14" align="center" /> **[Monitoring-Stack](https://github.com/CherubinSysNet)** | Tableau de bord de suivi en temps réel de la performance des serveurs et du trafic réseau. | `Zabbix` `Prometheus` `Grafana` |
-| <img src="https://api.iconify.design/lucide:git-commit.svg?color=%23C8FF3D" width="14" height="14" align="center" /> **[Network-Lab-Cisco](https://github.com/CherubinSysNet)** | Maquettes d'infrastructures réseaux d'entreprise avec routage, segmentation VLAN et sécurité. | `Cisco` `GNS3` `Packet Tracer` |
-
----
-
 ### <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23C8FF3D" width="22" height="22" align="center" /> Statistiques GitHub
 
 <div align="center">
