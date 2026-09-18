@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Bannière Principale Haute Définition -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0D10&height=200&section=header&text=CH%C3%89RUBIN%20TSHIENDA&fontSize=40&fontColor=C8FF3D&desc=ADMINISTRATEUR%20SYST%C3%88MES%20%26%20R%C3%89SEAUX%20%7C%20AUTOMATISATION&descSize=15&descColor=F7F7F5&stroke=C8FF3D&strokeWidth=2" width="100%" alt="Bannière Chérubin Tshienda" />
+    <img src="./banner.svg" width="100%" alt="Chérubin Tshienda Banner" />
 
   <!-- Animation texte dactylographique -->
   <a href="https://cherubin.vercel.app">
