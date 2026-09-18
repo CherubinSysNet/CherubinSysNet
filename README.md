@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Bannière en Ligne Garantie Compatible GitHub Camo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=220&section=header&text=CH%C3%89RUBIN%20TSHIENDA&fontSize=42&fontColor=C8FF3D&desc=SYSTEMS%20%26%20NETWORK%20ADMINISTRATOR%20%7C%20AUTOMATION&descSize=16&descColor=F7F7F5&stroke=C8FF3D&strokeWidth=2" width="100%" alt="Chérubin Tshienda Header" />
+  <img src="./banner.svg" width="100%" alt="Chérubin Tshienda Banner" />
 
   <!-- Animation Dactylographique -->
   <a href="https://cherubin.vercel.app">
